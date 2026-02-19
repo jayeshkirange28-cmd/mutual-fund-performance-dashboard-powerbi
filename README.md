@@ -55,25 +55,20 @@ The dataset includes:
    Dashboard Index Page
    ![Dashboard Index] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Dashboard-index.png)
    Dashboard Overview Page
-   ![Dashboard Index] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Dashboard-overview.png)
+   ![Overview Page] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Dashboard-overview.png)
    AMC Analysis Page
-   ![Dashboard Index] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/AMC_Analysis.png)
+   ![AMC Analysis ] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/AMC_Analysis.png)
    Performance & Growth Analysis Page
-    ![Dashboard Index] ()
+    ![Performance & Growth Analysis] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Performance%20%26%20Growth%20Analysis.png)
    
    
-   
-   
-
-## 📁 Project Files
+📁 Project Files
 
 * Mutual Fund Dashboard.pbix → Power BI Dashboard File
 * Dataset.xlsx → Source Dataset
 * Dashboard Screenshot.png → Dashboard Preview
 
----
-
-## 🚀 How to Use
+🚀 How to Use
 
 1. Download the .pbix file
 2. Open in Power BI Desktop
