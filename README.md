@@ -55,7 +55,10 @@ The dataset includes:
    Dashboard Index Page
    ![Dashboard Index] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Dashboard-index.png)
    Dashboard Overview Page
+   ![Dashboard Index] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Dashboard-overview.png)
+   AMC Analysis Page
    ![Dashboard Index] ()
+   
    
    
 
