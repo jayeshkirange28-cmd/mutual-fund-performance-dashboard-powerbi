@@ -52,9 +52,8 @@ The dataset includes:
 
 📸 Dashboard Preview
 
-(Add screenshot here after uploading image)
-
----
+   Dashboard Index Page
+   ![Dashboard Index] ()
 
 ## 📁 Project Files
 
@@ -71,23 +70,4 @@ The dataset includes:
 3. Refresh data if needed
 4. Interact with filters and visuals
 
----
-
-## 👨‍💻 Author
-
-Jayesh Kirange
-MSc IT Student | Data Analyst Enthusiast
-
-Skills:
-
-* Power BI
-* SQL
-* Excel
-* Python
-
----
-
-## ⭐ If you like this project
-
-Give it a star on GitHub!
 
