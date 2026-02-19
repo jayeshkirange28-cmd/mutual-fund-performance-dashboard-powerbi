@@ -53,7 +53,11 @@ The dataset includes:
 📸 Dashboard Preview
 
    Dashboard Index Page
+   ![Dashboard Index] (https://github.com/jayeshkirange28-cmd/mutual-fund-performance-dashboard-powerbi/blob/main/Dashboard-index.png)
+   Dashboard Overview Page
    ![Dashboard Index] ()
+   
+   
 
 ## 📁 Project Files
 
